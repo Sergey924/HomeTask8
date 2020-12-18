@@ -1,0 +1,13 @@
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.exe
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.deps.json
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.runtimeconfig.json
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.runtimeconfig.dev.json
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.dll
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\bin\Debug\netcoreapp3.1\HomeTask8.pdb
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.csprojAssemblyReference.cache
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.AssemblyInfo.cs
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.dll
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.pdb
+C:\Users\Админ\source\repos\HomeTask8\HomeTask8\obj\Debug\netcoreapp3.1\HomeTask8.genruntimeconfig.cache
